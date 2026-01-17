@@ -588,8 +588,8 @@ button {
 }
 
 .partner-logo img {
-    max-height: 80px;
-    max-width: 80%;
+    max-height: 100px;
+    max-width: 100%;
 }
 
 .partner-info {
@@ -708,7 +708,7 @@ button {
 
 @media (min-width: 1024px) {
     .review-grid {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
